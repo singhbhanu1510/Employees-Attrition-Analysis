@@ -1,3 +1,4 @@
+<img width="1145" height="657" alt="image" src="https://github.com/user-attachments/assets/c1b09f37-50b9-41a7-84fa-7bb670ee807a" />
 Employee Attrition Analysis Power BI project
 
 Data Quality Checks
