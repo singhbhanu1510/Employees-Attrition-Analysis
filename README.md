@@ -9,6 +9,10 @@ Data Quality Checks
 * Validated age, salary, and experience ranges.
 * Created calculated columns and measures for attrition rate.
 
+*
+* <img width="1145" height="652" alt="image" src="https://github.com/user-attachments/assets/85ada206-de8e-4d3c-97ae-2ed69535273f" />
+
+
 Charts Used
 
 1. KPI Cards
@@ -45,6 +49,9 @@ Charts Used
 8. Matrix/Table
 
    * Department-wise Employee Details
+
+<img width="1097" height="651" alt="image" src="https://github.com/user-attachments/assets/ead11123-9457-40de-aa7a-2af3f07c64bf" />
+     
 
 ### Business Problems Analyzed
 
